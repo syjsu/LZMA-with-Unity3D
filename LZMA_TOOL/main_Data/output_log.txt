@@ -1,0 +1,277 @@
+Initialize engine version: 4.6.9f1 (44099fd26189)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960 (ID=0x1401)
+    Vendor:   NVIDIA
+    VRAM:     1969 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\WorkProject\LZMA_TOOL\main_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\WorkProject\LZMA_TOOL\main_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\WorkProject\LZMA_TOOL\main_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\WorkProject\LZMA_TOOL\main_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\WorkProject\LZMA_TOOL\main_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\WorkProject\LZMA_TOOL\main_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\WorkProject\LZMA_TOOL\main_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\WorkProject\LZMA_TOOL\main_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.051 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\WorkProject\LZMA_TOOL\main_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\WorkProject\LZMA_TOOL\main_Data\Managed\System.dll (this message is harmless)
+文件夹压缩解压程序，本程序使用7Z压缩算法制作 http://www.7-zip.org/ 过程是文件夹⇔UPK文件⇔ZUPK文件
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+遍历文件夹 C:/WorkProject/LZMA_TOOL/main_Data/PackageFolder
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+编号:0 文件名 :PackageFolder/angel$www.baidu.com$crc32.gif 文件大小: 461903
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+编号:1 文件名 :PackageFolder/face (10).gif 文件大小: 851385
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+编号:2 文件名 :PackageFolder/face (2).gif 文件大小: 647857
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+编号:3 文件名 :PackageFolder/face (3).gif 文件大小: 1223340
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+编号:4 文件名 :PackageFolder/face (4).gif 文件大小: 506834
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+编号:5 文件名 :PackageFolder/face (5).gif 文件大小: 727000
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+编号:6 文件名 :PackageFolder/face (6).gif 文件大小: 217812
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+编号:7 文件名 :PackageFolder/face (7).gif 文件大小: 1415155
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+编号:8 文件名 :PackageFolder/face (8).gif 文件大小: 607132
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+编号:9 文件名 :PackageFolder/face (9).gif 文件大小: 844903
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+文件数量 : 10个
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+文件总大小 : 7503321KB
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+准备就绪
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+准备就绪
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+准备就绪
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+filecount=10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+id=0 startPos=442 size=461903 pathLength=43 path=PackageFolder/angel$www.baidu.com$crc32.gif
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+id=1 startPos=462345 size=851385 pathLength=27 path=PackageFolder/face (10).gif
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+id=2 startPos=1313730 size=647857 pathLength=26 path=PackageFolder/face (2).gif
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+id=3 startPos=1961587 size=1223340 pathLength=26 path=PackageFolder/face (3).gif
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+id=4 startPos=3184927 size=506834 pathLength=26 path=PackageFolder/face (4).gif
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+id=5 startPos=3691761 size=727000 pathLength=26 path=PackageFolder/face (5).gif
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+id=6 startPos=4418761 size=217812 pathLength=26 path=PackageFolder/face (6).gif
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+id=7 startPos=4636573 size=1415155 pathLength=26 path=PackageFolder/face (7).gif
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+id=8 startPos=6051728 size=607132 pathLength=26 path=PackageFolder/face (8).gif
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+id=9 startPos=6658860 size=844903 pathLength=26 path=PackageFolder/face (9).gif
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+准备就绪
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+System.IO.IOException: Sharing violation on path C:\WorkProject\LZMA_TOOL\main_Data\Package_decompress.upk
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode) [0x00000] in <filename unknown>:0 
+  at UPKExtra.ExtraUPK (System.String upkfilepath, System.String outputpath, .CodeProgress progress) [0x00000] in <filename unknown>:0 
+  at NewBehaviourScript.TestExtraUPK () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+System.IO.IOException: Sharing violation on path C:\WorkProject\LZMA_TOOL\main_Data\Package_decompress.upk
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode) [0x00000] in <filename unknown>:0 
+  at UPKExtra.ExtraUPK (System.String upkfilepath, System.String outputpath, .CodeProgress progress) [0x00000] in <filename unknown>:0 
+  at NewBehaviourScript.TestExtraUPK () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+System.IO.IOException: Sharing violation on path C:\WorkProject\LZMA_TOOL\main_Data\Package_decompress.upk
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode) [0x00000] in <filename unknown>:0 
+  at UPKExtra.ExtraUPK (System.String upkfilepath, System.String outputpath, .CodeProgress progress) [0x00000] in <filename unknown>:0 
+  at NewBehaviourScript.TestExtraUPK () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+System.IO.IOException: Sharing violation on path C:\WorkProject\LZMA_TOOL\main_Data\Package_decompress.upk
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode) [0x00000] in <filename unknown>:0 
+  at UPKExtra.ExtraUPK (System.String upkfilepath, System.String outputpath, .CodeProgress progress) [0x00000] in <filename unknown>:0 
+  at NewBehaviourScript.TestExtraUPK () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+System.IO.IOException: Sharing violation on path C:\WorkProject\LZMA_TOOL\main_Data\Package_decompress.upk
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode) [0x00000] in <filename unknown>:0 
+  at LZMAHelper.DeCompress (System.String inpath, System.String outpath, .CodeProgress progress) [0x00000] in <filename unknown>:0 
+  at NewBehaviourScript.TestDeCompress () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+System.IO.IOException: Sharing violation on path C:\WorkProject\LZMA_TOOL\main_Data\Package_unitypackage.7z
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode) [0x00000] in <filename unknown>:0 
+  at LZMAHelper.DeCompress (System.String inpath, System.String outpath, .CodeProgress progress) [0x00000] in <filename unknown>:0 
+  at NewBehaviourScript.TestDeCompress () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+System.IO.IOException: Sharing violation on path C:\WorkProject\LZMA_TOOL\main_Data\Package_unitypackage.7z
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode) [0x00000] in <filename unknown>:0 
+  at LZMAHelper.DeCompress (System.String inpath, System.String outpath, .CodeProgress progress) [0x00000] in <filename unknown>:0 
+  at NewBehaviourScript.TestDeCompress () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+System.IO.IOException: Sharing violation on path C:\WorkProject\LZMA_TOOL\main_Data\Package_decompress.upk
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode) [0x00000] in <filename unknown>:0 
+  at UPKExtra.ExtraUPK (System.String upkfilepath, System.String outputpath, .CodeProgress progress) [0x00000] in <filename unknown>:0 
+  at NewBehaviourScript.TestExtraUPK () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+遍历文件夹 C:/WorkProject/LZMA_TOOL/main_Data/PackageFolder
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+编号:0 文件名 :PackageFolder/angel$www.baidu.com$crc32.gif 文件大小: 461903
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+编号:1 文件名 :PackageFolder/face (10).gif 文件大小: 851385
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+编号:2 文件名 :PackageFolder/face (2).gif 文件大小: 647857
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+编号:3 文件名 :PackageFolder/face (3).gif 文件大小: 1223340
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+编号:4 文件名 :PackageFolder/face (4).gif 文件大小: 506834
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+编号:5 文件名 :PackageFolder/face (5).gif 文件大小: 727000
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+编号:6 文件名 :PackageFolder/face (6).gif 文件大小: 217812
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+编号:7 文件名 :PackageFolder/face (7).gif 文件大小: 1415155
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+编号:8 文件名 :PackageFolder/face (8).gif 文件大小: 607132
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+编号:9 文件名 :PackageFolder/face (9).gif 文件大小: 844903
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+文件数量 : 10个
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+文件总大小 : 7503321KB
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+准备就绪
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+准备就绪
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+准备就绪
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+filecount=10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+System.ArgumentException: An element with the same key already exists in the dictionary.
+  at System.Collections.Generic.Dictionary`2[System.Int32,OneFileInfor].Add (Int32 key, .OneFileInfor value) [0x00000] in <filename unknown>:0 
+  at UPKExtra.ExtraUPK (System.String upkfilepath, System.String outputpath, .CodeProgress progress) [0x00000] in <filename unknown>:0 
+  at NewBehaviourScript.TestExtraUPK () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
